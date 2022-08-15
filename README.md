@@ -1,5 +1,5 @@
 # 문희석 포트폴리오
-><div color="blue">몰입을 즐기는 개발자 문희석입니다.</div>
+>몰입을 즐기는 개발자 문희석입니다.
 
 </br>
 <img src="https://user-images.githubusercontent.com/101315869/184684333-6b12082d-2c0a-477b-825e-e6a66a777f8d.jpg" width="220" height="300">
