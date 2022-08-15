@@ -2,7 +2,7 @@
 >몰입을 즐기는 개발자 문희석입니다.
 
 </br>
-
+<img src="https://user-images.githubusercontent.com/101315869/184684333-6b12082d-2c0a-477b-825e-e6a66a777f8d.jpg" width="300" height="400">
 ## :pushpin: Intro
 - 끊임없이 도전하고 꾸준히 성장하는 개발자
 - 커뮤니케이션에 적극적으로 참여하는 개발자
