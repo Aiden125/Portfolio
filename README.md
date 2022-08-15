@@ -38,7 +38,7 @@
 >  
 >기술 스택:  
 >Java 8 / Spring / Mybatis / Tomcat 9 
->Oracle / MySQL / Ajax / Cloud AWS / EC2 
+>Oracle / MySQL / Ajax / AWS EC2 / Linux(Ubuntu)
 >  
 >[프로젝트 상세 설명](https://github.com/Aiden125/Vendredi) 참고
 
