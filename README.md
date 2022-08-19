@@ -19,6 +19,10 @@
 
 </br>
 
+## :pushpin: Skills
+
+</br>
+
 ## :pushpin: Projects
 ### 1. [Help Present](https://github.com/Aiden125/Help_present)
 >성격, 성향 별 선물 추천 커뮤니티 (개인 프로젝트)  
