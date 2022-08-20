@@ -6,9 +6,10 @@
 
 ## :pushpin: Intro
 - 안녕하세요! 신입 백엔드 개발자 문희석입니다.
-- 새로운 것에 도전하고, 막히는 부분을 해결 할 때의 뿌듯함을 좋아합니다.
-- 더 나아갈 수 있는, 더 나은 방법이 무엇인지에 대해 고민합니다.
+- 시도하고, 더 나은 방법이 무엇인지에 대해 고민합니다.
 - 다양한 사람들과의 다양한 커뮤니케이션에 관심이 많습니다.
+- 꾸준한 성장을 위해 1일 1커밋, 기술 블로그 등을 운영하고 있습니다.
+
 
 </br>
 
@@ -20,6 +21,16 @@
 </br>
 
 ## :pushpin: Skills
+### Backend
+- Java
+- JSP, Spring Boot, Spring MVC
+- MyBatis
+### DevOps
+- MySQL, Oracle
+- DevOps : MySQL, Oracle
+- AWS EC2, RDS
+### Frontend
+- HTML, CSS
 
 </br>
 
@@ -47,3 +58,33 @@
 >[프로젝트 상세 설명](https://github.com/Aiden125/Vendredi) 참고
 
 ---
+
+</br>
+
+## Work Experience
+### 에듀업 원격평생교육원
+###### 2018.06 ~ 2021.06
+학생 학사일정 관리 및 교육과정 상담
+
+</br>
+
+## Training
+### 자바(Java) 개발자 양성과정
+###### 2022.03 ~ 2022.08
+- Java, Database, JSP, Spring, Spring Boot
+- 자바 웹 개발 기초,  깃 형상관리
+- 팀 프로젝트를 통한 협업 
+
+</br>
+
+## Education
+### 방송통신대학교 컴퓨터과학과 재학
+###### 2022.08 ~ 현재
+### 인덕대학교 산업공학과 졸업
+###### 2014.03 ~ 2019.02
+
+</br>
+
+## Language
+### Opic / IM2(Intermediate Mid2)
+###### 2022.01
