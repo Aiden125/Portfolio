@@ -27,7 +27,6 @@
 - MyBatis
 ### DevOps
 - MySQL, Oracle
-- DevOps : MySQL, Oracle
 - AWS EC2, RDS
 ### Frontend
 - HTML, CSS
