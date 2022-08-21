@@ -39,7 +39,7 @@
 >개발 기간: 2022.6.27 ~ 2022.7.7  
 >  
 >기술 스택:  
->Java 8 / JSP MVC / Tomcat 9
+>Java 8 / JSP MVC / Tomcat 9</br>
 >Oracle / Ajax
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
@@ -51,7 +51,7 @@
 >개발 기간: 2022.7.28 ~ 2022.8.17  
 >  
 >기술 스택:  
->Java 8 / Spring / Mybatis / Tomcat 9 
+>Java 8 / Spring / Mybatis / Tomcat 9 </br>
 >Oracle / MySQL / Ajax / AWS EC2 / Linux(Ubuntu)
 >  
 >[프로젝트 상세 설명](https://github.com/Aiden125/Vendredi) 참고
