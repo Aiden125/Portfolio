@@ -13,14 +13,14 @@
 
 </br>
 
-## :pushpin: Contact
+## ✉️ Contact
 - Email : mungml1995@gmail.com
 - Blog : https://dosmallthing.tistory.com
 - GitHub : https://github.com/Aiden125
 
 </br>
 
-## :pushpin: Skills
+## :computer: Skills
 ### Backend
 - Java
 - JSP, Spring Boot, Spring MVC
@@ -33,7 +33,7 @@
 
 </br>
 
-## :pushpin: Projects
+## :running: Projects
 ### 1. [Help Present](https://github.com/Aiden125/Help_present)
 >성격, 성향 별 선물 추천 커뮤니티 (개인 프로젝트)  
 >개발 기간: 2022.6.27 ~ 2022.7.7  
