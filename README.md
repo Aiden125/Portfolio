@@ -2,7 +2,7 @@
 > 안녕하세요, 신입 백엔드 개발자 문희석입니다!
 
 </br>
-<img src="https://user-images.githubusercontent.com/101315869/184684333-6b12082d-2c0a-477b-825e-e6a66a777f8d.jpg" width="220" height="300">
+<img src="https://user-images.githubusercontent.com/101315869/184684333-6b12082d-2c0a-477b-825e-e6a66a777f8d.jpg" width="200" height="270">
 
 </br>
 
@@ -20,14 +20,14 @@
 - 꾸준한 성장을 위한 1일 1커밋과 기술 블로그
 
 
-</br>
+</br></br>
 
 ## :mailbox_with_mail: Contact
 - Email : mungml1995@gmail.com
 - Blog : https://dosmallthing.tistory.com
 - GitHub : https://github.com/Aiden125
 
-</br>
+</br></br>
 
 ## <img src="https://user-images.githubusercontent.com/101315869/188421586-bb2a8d12-288c-4cc9-9dc5-cb7413644b6a.png" style="width:25px;"> Stacks
 ### Java  
@@ -35,7 +35,7 @@
 - 객체지향 프로그래밍에 대하여 이해하고 있습니다.
 - 메소드와 클래스를 적절하게 이용하여 기능을 구현할 수 있습니다.
 
-</br>
+</br></br>
 
 ### Node.js
 - Node.js를 통하여 웹 사이트를 개발중에 있습니다.  
@@ -61,7 +61,7 @@
 - HTML, CSS, JS를 통하여 간단한 페이지를 구성할 수 있습니다.  
 
 
-</br>
+</br></br>
 
 ## :running: Projects
 ### 1. [word_relay](https://github.com/Aiden125/word_relay)
@@ -100,32 +100,32 @@
 ---
 
 
-</br>
+</br></br>
 
-## Training
+## :black_nib: Training
 ### 자바(Java) 개발자 양성과정
 ###### 2022.03 ~ 2022.08
 - Java, Database, JSP, Spring, Spring Boot
 - 자바 웹 개발 기초,  깃 형상관리
 - 팀 프로젝트를 통한 협업 
 
-</br>
+</br></br>
 
-## Education
+## :books: Education
 ### 방송통신대학교 컴퓨터과학과 재학
 ###### 2022.08 ~ 현재
 ### 인덕대학교 산업공학과 졸업
 ###### 2014.03 ~ 2019.02
 
-</br>
+</br></br>
 
-## Work Experience
+## :office: Work Experience
 ### 에듀업 원격평생교육원
 ###### 2018.06 ~ 2021.06
 학생 학사일정 관리 및 교육과정 상담
 
-</br>
+</br></br>
 
-## Language
+## :airplane: Language
 ### Opic / IM2(Intermediate Mid2)
 ###### 2022.01
