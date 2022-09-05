@@ -6,7 +6,7 @@
 
 </br>
 
-## :pushpin: Introduction
+## :pushpin: Backend Developer
 
  #### 저는 ________________________________ 개발자입니다.
 - 시도하고, 더 나은 방법이 무엇인지에 대해 고민하는
