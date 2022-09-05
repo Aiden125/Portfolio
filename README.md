@@ -44,21 +44,21 @@
 </br>
 
 ### MySQL, Oracle, MongoDB
-- 관계형 DB와 NoSQL에 대한 이해 및 경험이 있습니다.  
+- 관계형 DB와 NoSQL에 대한 이해 및 경험이 있습니다.
 - MySQL, Oracle 쿼리를 구성하여 적용할 수 있습니다.  
-- MongoDB를 이용하여 웹 개발 중에 있으며, NoSQL의 특성을 이해하고 있습니다.
-
-</br>
-
-### HTML, CSS, JS
-- HTML, CSS를 통하여 간단한 페이지를 구성할 수 있습니다.  
-- JS를 통하여 간단한 동작을 페이지 적용할 수 있습니다.
+- MongoDB를 이용하여 웹 개발 중에 있습니다.
 
 </br>
 
 ### AWS EC2(obuntu), Google Cloud
 - 카페24, Cloud 서비스를 통한 배포 경험이 있습니다.
 - 간단한 리눅스 명령어 사용이 가능합니다.
+
+</br>
+
+### HTML, CSS, JS
+- HTML, CSS, JS를 통하여 간단한 페이지를 구성할 수 있습니다.  
+
 
 </br>
 
