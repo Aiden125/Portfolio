@@ -6,7 +6,7 @@
 
 </br>
 
-## :pushpin: Backend Developer
+## :rocket: Backend Developer
 
  #### 저는 ________________________________ 개발자입니다.
 - 시도하고, 더 나은 방법이 무엇인지에 대해 고민하는
@@ -22,14 +22,14 @@
 
 </br>
 
-## ✉️ Contact
+## :mailbox_with_mail: Contact
 - Email : mungml1995@gmail.com
 - Blog : https://dosmallthing.tistory.com
 - GitHub : https://github.com/Aiden125
 
 </br>
 
-## :computer: Skills
+## <img src="https://user-images.githubusercontent.com/101315869/188421586-bb2a8d12-288c-4cc9-9dc5-cb7413644b6a.png" style="width:25px;"> Stacks
 ### Java  
 - JSP, Java Spring을 통하여 웹 사이트를 개발해 본 경험이 있습니다.
 - 객체지향 프로그래밍에 대하여 이해하고 있습니다.
@@ -56,7 +56,8 @@
 
 </br>
 
-### HTML, CSS, JS
+### Others
+- Git, Github을 통한 협업 경험이 있습니다.
 - HTML, CSS, JS를 통하여 간단한 페이지를 구성할 수 있습니다.  
 
 
