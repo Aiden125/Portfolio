@@ -22,7 +22,7 @@
 
 </br></br>
 
-## :mailbox_with_mail: Contact
+## :mailbox_with_mail: Contact & Channel
 - Email : mungml1995@gmail.com
 - Blog : https://dosmallthing.tistory.com
 - GitHub : https://github.com/Aiden125
