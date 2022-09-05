@@ -49,7 +49,7 @@
 >Java 8 / JSP MVC / Tomcat 9</br>
 >Oracle / Ajax
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Aiden125/Help_present)
 
 ---
 
@@ -61,7 +61,7 @@
 >Java 8 / Spring / Mybatis / Tomcat 9 </br>
 >Oracle / MySQL / Ajax / AWS EC2 / Linux(Ubuntu)
 >  
->[프로젝트 상세 설명](https://github.com/Aiden125/Vendredi) 참고
+>[프로젝트 상세 설명](https://github.com/Aiden125/Vendredi)
 
 ---
 
