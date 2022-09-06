@@ -71,7 +71,7 @@
 >기술 스택:  
 >Node.js / JavaScript / Ajax / Google Cloud </br>
 >  
->[진행 중 프로젝트 바로가기](https://github.com/Aiden125/word_relay)
+>진행 중 프로젝트 [코드보기](https://github.com/Aiden125/word_relay)  / [데모 버전 보기](https://word-relay-361704.du.r.appspot.com/)
 
 ---
 
