@@ -23,6 +23,7 @@
 </br></br>
 
 ## :mailbox_with_mail: Contact & Channel
+- Phone : 010-9284-3694
 - Email : mungml1995@gmail.com
 - Blog : https://dosmallthing.tistory.com
 - GitHub : https://github.com/Aiden125
