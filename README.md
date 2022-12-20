@@ -25,7 +25,7 @@
 ## :mailbox_with_mail: Contact & Channel
 - Phone : 010-9284-3694
 - Email : mungml1995@gmail.com
-- Blog : https://condingdodo.tistory.com
+- Blog : https://codingdodo.tistory.com
 - GitHub : https://github.com/Aiden125
 
 </br></br>
